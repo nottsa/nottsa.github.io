@@ -2,11 +2,8 @@
 layout: page
 title: Booking Policies
 ---
-
-# Booking Policies
-
 ## How to book
-Availability for dates is displayed on this website against each activity. If you need to make further enquiries please email bookings@nottsscoutsadventure.org.uk.
+Availability for dates is displayed on this website against each activity. If you need to make further enquiries please email <bookings@nottsscoutsadventure.org.uk>.
 
 Bookings made at the website checkout are provisional and will be held for 10 days pending payment of a 20% deposit. Instructions for your selected payment method will be sent by email with your provisional booking confirmation.
 
@@ -24,7 +21,7 @@ All cancellations made by the Group / Individual must be in writing and acknowle
 
 In the event of cancellation by the Group / Individual, a cancellation fee will be due to the Centre as set out below:
 
-* __Six (6) weeks__ or more __prior__ to the commencement of course/event: deposit only payable.
+* __Six (6) weeks or more prior__ to the commencement of course/event: deposit only payable.
 * __Two (2) weeks to six (6) weeks prior__ to the commencement of course/event: seventy five per cent (75%) of your total course fee shall be retained by the Centre.
 * __Two (2) weeks or less prior__ to the commencement of course/event: one hundred per cent (100%) of your total course fee shall be retained by the Centre.
 * One hundred per cent (100%) of the course fee is retained if you cancel on or after the commencement date of your course.
