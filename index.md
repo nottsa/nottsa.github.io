@@ -15,5 +15,6 @@ title: Home
 * Walking and Climbing in the Peak District
 * Winter Walking in the Snowdonia, Lake District and Yorkshire Dales National Parks (2020 dates available now)
 
-Please bear with us while we add content to the new website.
-
+<p class="message">
+    Please bear with us while we add content to the new website.
+</p>
