@@ -10,7 +10,7 @@ title:            Nottinghamshire Scouts Adventure
 tagline:          'Fun | Friendship | Opportunity'
 description:      ''
 url:              http://www.nottsscoutsadventure.org.uk
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Nottinghamshire Scouts'
