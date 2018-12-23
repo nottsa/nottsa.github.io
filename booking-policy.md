@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Booking Policies
+title: Booking Policy
 ---
 ## How to book
 Availability for dates is displayed on this website against each activity. If you need to make further enquiries please email <bookings@nottsscoutsadventure.org.uk>.
 
-Bookings made at the website checkout are provisional and will be held for 10 days pending payment of a 20% deposit. Instructions for your selected payment method will be sent by email with your provisional booking confirmation.
+__Bookings made at the website checkout are provisional and will be held for 10 days pending payment of a 20% deposit.__ 
 
 Provisional bookings where deposits remaining unpaid after 10 days will be cancelled and the places will republished on the website.
+
+Instructions for your selected payment method will be sent by email with your provisional booking confirmation.
 
 An acknowledgement of deposit will be provided within one (1) week of receiving cleared funds at our bank account. Where possible please make payment by Bank Transfer.
 
